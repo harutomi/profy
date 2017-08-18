@@ -1,3 +1,3 @@
 class Group < ActiveRecord::Base
-  has_many :usrs
+  has_many :users
 end
